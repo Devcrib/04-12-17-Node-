@@ -13,8 +13,9 @@ for(var i = 0;i < a.length;i++){
 
 }
 
-console.log(arr);
+//console.log(arr);
 var len = a.length;
 console.log(a.substr(index,len - 1));
-arr[count] = a.substr(index,len - 1);
-console.log(arr.length);
+//arr[count] = a.substr(index,len - 1);
+//console.log(arr.length);
+console.log(len);

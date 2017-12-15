@@ -1,5 +1,5 @@
 function detect_identical(sequence){
-   let = last_str = '';
+   let last_str = '';
    identicals = [];
    identical_str = '';
    for (let i=0; i <= sequence.length; i++) {
