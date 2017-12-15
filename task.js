@@ -1,9 +1,3 @@
-//var input = "make money every day";
-//var arr = input.split(" ");
-//var len = arr.length;
-//console.log(len);
-
-
 var a = "HARRY";
 var b = "SALLY";
 
